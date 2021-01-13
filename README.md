@@ -1,4 +1,3 @@
 # python
-starting python
 
-this git is all about 데이터 시각화
+this git is all about Data Visualisation
